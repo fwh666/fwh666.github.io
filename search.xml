@@ -110,35 +110,6 @@
     
     
     <entry>
-      <title>template page</title>
-      <link href="/2020/09/05/2020-12-21-life-winter/"/>
-      <url>/2020/09/05/2020-12-21-life-winter/</url>
-      
-        <content type="html"><![CDATA[<h1 id="序："><a href="#序：" class="headerlink" title="序："></a>序：</h1><blockquote><p>PS：👇背景音乐会自动播放的。不行就戳一下👇</p></blockquote><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script><div class="aplayer" data-id="29764564" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div><ul><li>图片</li></ul><img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250"><p><img src="/images/posts/jvm/GC_memory02.png" alt="垃圾算法"></p><ul><li>newTable链接：</li></ul><p><a href="baidu.com" target="_blank">链接</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> cate1 </category>
-          
-          <category> cate2 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 奥森公园 </tag>
-            
-            <tag> Images </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>记--一组照片</title>
       <link href="/2020/08/30/2020-08-30-life-image-forestpark/"/>
       <url>/2020/08/30/2020-08-30-life-image-forestpark/</url>
